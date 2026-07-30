@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm Setayesh 👩‍💻
+  Welcome to my GitHub 👋
 </h1>
 
 <h3 align="center">
-  Front-End Developer
+  Front-End Developer 👩‍💻
 </h3>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 
-### 🎨 UI & Styling
+### 🎨 UI & Styling Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
@@ -46,23 +46,23 @@
 </p>
 
 
+
 ## ⚡ Skills
 
-### Web Development
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Responsive Design
+### 🌐 Web Development
+
+- Semantic HTML5
+- Modern CSS3
+- Flexbox & CSS Grid
+- JavaScript & TypeScript
+- React & Next.js
+- Responsive Web Design
 
 
-### UI Development
+### 🎨 UI Development
 
+- Creating modern user interfaces
 - Tailwind CSS
 - Bootstrap
 - React Bootstrap
@@ -70,7 +70,7 @@
 - Dark Mode Implementation
 
 
-### React Ecosystem
+### ⚛️ React Development
 
 - React Router
 - API Integration
@@ -80,21 +80,24 @@
 - Modern UI Development
 
 
+
 ## 🚀 Featured Project
 
 
 ### 🎬 MovieHub
 
-A modern movie web application built with React.
+A modern movie web application focused on clean UI, responsive design and user experience.
 
-Features:
+**Technologies & Features:**
 
-- Responsive design
-- Dark Mode
-- React Router
-- Reusable components
-- Swiper sliders
-- Modern UI
+- ⚛️ React
+- 🔀 React Router
+- 🎨 Modern UI Design
+- 📱 Fully Responsive Layout
+- 🌙 Dark Mode
+- 🧩 Reusable Components
+- 🎞️ Swiper.js Slider
+
 
 
 ## 📊 GitHub Stats
