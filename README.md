@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to my GitHub 👋
+  Hi 👋, I'm Setayesh Mardi 👩‍💻
 </h1>
 
 <h3 align="center">
