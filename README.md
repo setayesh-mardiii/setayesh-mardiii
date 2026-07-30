@@ -1,13 +1,13 @@
 <h1 align="center">
-  Hi 👋, I'm Setayesh
+  Hi 👋, I'm Setayesh 👩‍💻
 </h1>
 
 <h3 align="center">
-  Front-End Web Developer
+  Front-End Developer | React Developer
 </h3>
 
 <p align="center">
-  I build modern, responsive and user-friendly web applications.
+  I create modern, responsive and user-friendly web applications.
 </p>
 
 
@@ -19,39 +19,39 @@
 ## 👩‍💻 About Me
 
 - 💻 Front-End Developer
+- ⚛️ React Developer
 - 🎨 Turning Figma designs into real websites
-- 📱 Passionate about Responsive Design
-- 🌙 Experienced in Dark Mode implementation
-- 🚀 Building modern web applications
+- 📱 Building responsive layouts for all devices
+- 🌙 Implementing Dark Mode interfaces
 - 📊 Creating Dashboards and Admin Panels
+- 🚀 Passionate about learning and building real-world projects
 
 
 
 ## 🛠️ Tech Stack
 
 
-### 🌐 Front-End
+### 🌐 Front-End Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 
 
 ### 🎨 Styling & UI Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,mui" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
 </p>
 
 
 
 ### 🔧 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-## 🎨 Styling Skills
+## 🎨 UI & Styling Skills
 
 - CSS Architecture
 - Responsive Layout
@@ -89,7 +89,6 @@
 - Component-Based Architecture
 - Swiper.js
 - Modern UI Development
-
 
 
 
@@ -112,26 +111,20 @@ Features:
 
 
 
-
 ## 📊 GitHub Stats
 
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
 </p>
-
 
 
 
 ## 📫 Connect With Me
 
-
 <p>
 🐙 GitHub: @setayesh-mardiii
 </p>
-
 
 
 ⭐ Thanks for visiting my profile!
