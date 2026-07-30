@@ -3,29 +3,23 @@
 </h1>
 
 <h3 align="center">
-  Front-End Developer | React Developer
+  Front-End Developer
 </h3>
 
 <p align="center">
-  I create modern, responsive and user-friendly web applications.
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  Building modern, responsive and user-friendly web applications
 </p>
 
 
 ## 👩‍💻 About Me
 
-- 💻 Front-End Developer
-- ⚛️ React Developer
-- 🎨 Turning Figma designs into real websites
-- 📱 Building responsive layouts for all devices
-- 🌙 Implementing Dark Mode interfaces
-- 📊 Creating Dashboards and Admin Panels
-- 🚀 Passionate about learning and building real-world projects
-
+- 💻 Front-End Web Developer
+- 🎨 Transforming Figma designs into real websites
+- 📱 Creating responsive layouts for all devices
+- 🌙 Building Dark Mode interfaces
+- 🧩 Developing reusable and scalable components
+- 📊 Creating dashboards and admin panels
+- 🚀 Always learning and improving my skills
 
 
 ## 🛠️ Tech Stack
@@ -38,13 +32,11 @@
 </p>
 
 
-
-### 🎨 Styling & UI Libraries
+### 🎨 UI & Styling
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
 </p>
-
 
 
 ### 🔧 Tools
@@ -54,14 +46,14 @@
 </p>
 
 
+## ⚡ Skills
 
-## ⚡ Front-End Skills
+### Web Development
 
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
-- Tailwind CSS
 - JavaScript
 - TypeScript
 - React
@@ -69,19 +61,16 @@
 - Responsive Design
 
 
+### UI Development
 
-## 🎨 UI & Styling Skills
-
-- CSS Architecture
-- Responsive Layout
-- Dark Mode
+- Tailwind CSS
 - Bootstrap
 - React Bootstrap
 - Material UI (MUI)
+- Dark Mode Implementation
 
 
-
-## ⚛️ React Skills
+### React Ecosystem
 
 - React Router
 - API Integration
@@ -91,40 +80,33 @@
 - Modern UI Development
 
 
-
 ## 🚀 Featured Project
 
 
-### 🎬 MovieHub React
+### 🎬 MovieHub
 
-A modern movie website built with React.
+A modern movie web application built with React.
 
 Features:
 
 - Responsive design
 - Dark Mode
-- React Router navigation
+- React Router
 - Reusable components
-- Swiper.js sliders
-- Movie card layouts
-- Modern UI design
-
+- Swiper sliders
+- Modern UI
 
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
 </p>
 
 
-
 ## 📫 Connect With Me
 
-<p>
 🐙 GitHub: @setayesh-mardiii
-</p>
 
 
 ⭐ Thanks for visiting my profile!
