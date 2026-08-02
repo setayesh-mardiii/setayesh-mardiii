@@ -1,10 +1,9 @@
-```md
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-Hi 👋, I'm <strong>Setayesh Mardi</strong>
+Hi 👋, I'm Setayesh Mardi
 </h1>
 
 <h3 align="center">
@@ -26,17 +25,17 @@ Building modern, responsive and user-friendly web applications with React ⚛️
 # 👩‍💻 About Me
 
 - 💻 Front-End Web Developer
-- ⚛️ React & Modern JavaScript Developer
-- 🎨 Transforming Figma designs into responsive websites
-- 📱 Mobile First & Responsive Design
-- 🌙 Dark / Light Theme Implementation
-- 🧩 Building reusable and scalable components
+- ⚛️ React Developer
+- 🎨 Transforming Figma designs into real websites
+- 📱 Responsive Web Design
+- 🌙 Dark Mode Implementation
+- 🧩 Building reusable components
 - 📊 Dashboard & Admin Panel Development
-- 🚀 Passionate about learning new technologies every day
+- 🚀 Passionate about learning new technologies
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### 🌐 Front-End
 
@@ -66,35 +65,32 @@ Building modern, responsive and user-friendly web applications with React ⚛️
 
 # ⚡ Skills
 
-### 🌍 Web Development
+### 🌐 Web Development
 
-- Semantic HTML5
-- Modern CSS3
-- Flexbox & CSS Grid
-- JavaScript (ES6+)
+- HTML5
+- CSS3
+- JavaScript
 - TypeScript
 - React
 - Next.js
-- Responsive Web Design
+- Responsive Design
 
 ### 🎨 UI Development
 
-- Modern User Interfaces
 - Tailwind CSS
 - Bootstrap
 - Material UI
 - Dark Mode
-- Reusable Components
+- Modern UI Design
 
-### ⚛️ React
+### ⚛ React
 
 - React Router
 - Context API
-- API Integration
 - Axios
+- API Integration
 - Swiper.js
-- Component Architecture
-- Performance Optimization
+- Reusable Components
 
 ---
 
@@ -102,7 +98,7 @@ Building modern, responsive and user-friendly web applications with React ⚛️
 
 ## 🎬 MovieHub
 
-A modern movie web application built with React and TMDB API.
+Modern movie website powered by React & TMDB API.
 
 ### Features
 
@@ -110,9 +106,9 @@ A modern movie web application built with React and TMDB API.
 - 🔍 Search
 - ⭐ Top Rated
 - 🔥 Popular
-- 📱 Fully Responsive
+- 📱 Responsive
 - 🌙 Dark Mode
-- ⚛️ React Router
+- ⚛ React Router
 - 🧩 Reusable Components
 
 ---
@@ -164,4 +160,3 @@ A modern movie web application built with React and TMDB API.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=120&section=footer"/>
 </p>
-```
