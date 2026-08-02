@@ -10,9 +10,7 @@ Hi 👋, I'm Setayesh Mardi
 Front-End Developer 👩‍💻
 </h3>
 
-<p align="center">
-Building modern, responsive and user-friendly web applications with React ⚛️
-</p>
+
 
 <p align="center">
 
