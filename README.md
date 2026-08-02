@@ -1,115 +1,167 @@
+```md
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
-  Hi 👋, I'm Setayesh Mardi 👩‍💻
+Hi 👋, I'm <strong>Setayesh Mardi</strong>
 </h1>
 
 <h3 align="center">
-  Front-End Developer 👩‍💻
+Front-End Developer 👩‍💻
 </h3>
 
 <p align="center">
-  Building modern, responsive and user-friendly web applications
+Building modern, responsive and user-friendly web applications with React ⚛️
 </p>
 
+<p align="center">
 
-## 👩‍💻 About Me
+![](https://komarev.com/ghpvc/?username=setayesh-mardiii&style=for-the-badge&color=blueviolet)
+
+</p>
+
+---
+
+# 👩‍💻 About Me
 
 - 💻 Front-End Web Developer
-- 🎨 Transforming Figma designs into real websites
-- 📱 Creating responsive layouts for all devices
-- 🌙 Building Dark Mode interfaces
-- 🧩 Developing reusable and scalable components
-- 📊 Creating dashboards and admin panels
-- 🚀 Always learning and improving my skills
+- ⚛️ React & Modern JavaScript Developer
+- 🎨 Transforming Figma designs into responsive websites
+- 📱 Mobile First & Responsive Design
+- 🌙 Dark / Light Theme Implementation
+- 🧩 Building reusable and scalable components
+- 📊 Dashboard & Admin Panel Development
+- 🚀 Passionate about learning new technologies every day
 
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
+### 🌐 Front-End
 
-### 🌐 Front-End Technologies
+<p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+
 </p>
 
+### 🎨 UI Libraries
 
-### 🎨 UI & Styling Libraries
+<p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
+<img src="https://skillicons.dev/icons?i=bootstrap,mui"/>
+
 </p>
 
+### 🛠 Tools
 
-### 🔧 Tools
+<p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
 </p>
 
+---
 
+# ⚡ Skills
 
-## ⚡ Skills
-
-
-### 🌐 Web Development
+### 🌍 Web Development
 
 - Semantic HTML5
 - Modern CSS3
 - Flexbox & CSS Grid
-- JavaScript & TypeScript
-- React & Next.js
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
 - Responsive Web Design
-
 
 ### 🎨 UI Development
 
-- Creating modern user interfaces
+- Modern User Interfaces
 - Tailwind CSS
 - Bootstrap
-- React Bootstrap
-- Material UI (MUI)
-- Dark Mode Implementation
+- Material UI
+- Dark Mode
+- Reusable Components
 
-
-### ⚛️ React Development
+### ⚛️ React
 
 - React Router
+- Context API
 - API Integration
-- Reusable Components
-- Component-Based Architecture
+- Axios
 - Swiper.js
-- Modern UI Development
+- Component Architecture
+- Performance Optimization
 
+---
 
+# 🚀 Featured Project
 
-## 🚀 Featured Project
+## 🎬 MovieHub
 
+A modern movie web application built with React and TMDB API.
 
-### 🎬 MovieHub
+### Features
 
-A modern movie web application focused on clean UI, responsive design and user experience.
-
-**Technologies & Features:**
-
-- ⚛️ React
-- 🔀 React Router
-- 🎨 Modern UI Design
-- 📱 Fully Responsive Layout
+- 🎥 Movies & TV Shows
+- 🔍 Search
+- ⭐ Top Rated
+- 🔥 Popular
+- 📱 Fully Responsive
 - 🌙 Dark Mode
+- ⚛️ React Router
 - 🧩 Reusable Components
-- 🎞️ Swiper.js Slider
 
+---
 
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
 
-## 📫 Connect With Me
+<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight"/>
 
-🐙 GitHub: @setayesh-mardiii
+</p>
 
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/setayesh-mardiii">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="mailto:example@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=120&section=footer"/>
+</p>
+```
