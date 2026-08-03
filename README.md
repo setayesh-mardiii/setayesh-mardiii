@@ -2,69 +2,76 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Setayesh Mardi</h1>
+<h1 align="center">
+Hi 👋, I'm Setayesh Mardi
+</h1>
 
+<h3 align="center">
+Front-End Developer 👩‍💻
+</h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=setayesh-mardiii&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
 # 👩‍💻 About Me
 
 - 💻 Front-End Web Developer
-- ⚛️ React & Next.js Developer
-- 🎨 Converting Figma designs into responsive websites
-- 📱 Responsive & Mobile First Design
+- ⚛️ React Developer
+- 🎨 Transforming Figma designs into real websites
+- 📱 Responsive Web Design
 - 🌙 Dark Mode Implementation
-- 🧩 Building reusable UI Components
+- 🧩 Building reusable components
 - 📊 Dashboard & Admin Panel Development
-- 🚀 Always learning new technologies
+- 🚀 Passionate about learning new technologies
 
 ---
 
 # 🛠 Tech Stack
 
-### 🌐 Languages & Frameworks
+### 🌐 Front-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 </p>
 
 ### 🎨 UI Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mui"/>
 </p>
 
 ### 🛠 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
 # ⚡ Skills
 
-### Front-End
+### 🌐 Web Development
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
 - React
 - Next.js
+- Responsive Design
 
-### UI
+### 🎨 UI Development
 
 - Tailwind CSS
 - Bootstrap
 - Material UI
-- Responsive Design
 - Dark Mode
-- Pixel Perfect Design
+- Modern UI Design
 
-### React Ecosystem
+### ⚛️ React
 
 - React Router
 - Context API
@@ -86,7 +93,7 @@ Modern movie website powered by React & TMDB API.
 - 🎥 Movies & TV Shows
 - 🔍 Search
 - ⭐ Top Rated
-- 🔥 Trending
+- 🔥 Popular
 - 📱 Responsive
 - 🌙 Dark Mode
 - ⚛️ React Router
@@ -97,29 +104,12 @@ Modern movie website powered by React & TMDB API.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=00000000" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setayesh-mardiii&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=setayesh-mardiii&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=setayesh-mardiii&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight"/>
 </p>
 
 ---
@@ -127,25 +117,21 @@ Modern movie website powered by React & TMDB API.
 # 📫 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/setayesh-mardiii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/setayesh-mardiii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile!
-
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=120&section=footer"/>
 </p>
