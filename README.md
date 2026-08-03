@@ -26,40 +26,20 @@ I'm a Front-End Developer focused on building modern, responsive and user-friend
 
 ## 💼 My Services
 
-### ⚛️ Web Development
-
-Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies.
-
----
-
-### 🎨 UI / UX
-
-Pixel-perfect interfaces with modern layouts, responsive design and clean user experience.  
-Transforming Figma designs into real websites.
-
----
-
-### 🔗 REST API
-
-API integration using Axios and Fetch, authentication, dynamic data handling and interactive applications.
-
----
-
-### ⚡ Performance
-
-Building optimized applications with clean code, reusable components, responsive solutions and performance improvements.
-
+| Service | Description |
+|---|---|
+| ⚛️ Web Development | Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies. |
+| 🎨 UI / UX | Pixel-perfect interfaces with modern layouts, responsive design, clean user experience and transforming Figma designs into real websites. |
+| 🔗 REST API | API integration using Axios and Fetch, authentication, dynamic data handling and interactive applications. |
+| ⚡ Performance | Performance optimization, reusable components, clean code, responsive solutions and improving web application performance. |
 ---
 
 ## 🛠 Tech Stack
-
-### 🌐 Front-End
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui"/>
 </p>
 
-### 🧰 Tools & Design
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
@@ -77,19 +57,10 @@ Building optimized applications with clean code, reusable components, responsive
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=120&section=footer"/>
-</p>
