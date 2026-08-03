@@ -26,13 +26,52 @@ I'm a Front-End Developer focused on building modern, responsive and user-friend
 
 ## 💼 My Services
 
-| Service | Description |
-|---|---|
-| ⚛️ Web Development | Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies. |
-| 🎨 UI / UX | Pixel-perfect interfaces with modern layouts, responsive design, clean user experience and transforming Figma designs into real websites. |
-| 🔗 REST API | API integration using Axios and Fetch, authentication, dynamic data handling and interactive applications. |
-| ⚡ Performance | Performance optimization, reusable components, clean code, responsive solutions and improving web application performance. |
----
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### ⚛️ Web Development
+
+Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎨 UI / UX
+
+Pixel-perfect interfaces with modern layouts, responsive design and clean user experience.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔗 REST API
+
+API Integration, Axios, Fetch, Authentication and dynamic applications.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚡ Performance
+
+Performance optimization, reusable components and building efficient web applications.
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ## 🛠 Tech Stack
 
@@ -57,6 +96,6 @@ I'm a Front-End Developer focused on building modern, responsive and user-friend
 
 </p>
 
-</p> -->
+
 
 
