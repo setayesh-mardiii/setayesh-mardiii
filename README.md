@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Setayesh Mardi
-</h1>
 
 <h3 align="center">
 💻 Front-End Developer
