@@ -2,14 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Setayesh Mardi</h1>
+<h1 align="center">
+Setayesh Mardi
+</h1>
 
 <h3 align="center">
-  Front-End Developer 👩‍💻
+💻 Front-End Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=React+Developer;Next.js+Developer;Front-End+Developer;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=React+Developer;Next.js+Developer;UI+Focused+Frontend+Developer;Building+Modern+Web+Experiences"/>
 </p>
 
 <p align="center">
@@ -20,54 +22,68 @@
 
 # 👩‍💻 About Me
 
-```ts
-const setayesh = {
-  role: "Front-End Developer",
-  stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
-  ui: ["Tailwind CSS", "Bootstrap", "Material UI"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  focus: "Building responsive and modern web applications 🚀"
-}
-```
+I'm a Front-End Developer focused on creating modern, responsive and user-friendly web applications.
+
+I enjoy transforming designs into real-world products with clean code, reusable components and modern UI solutions.
+
+📍 Iran  
+💻 Focused on React & Next.js  
+🎨 Passionate about UI Design and User Experience  
+🌱 Currently improving my Front-End skills and learning new technologies  
+⚡ Fun fact: I love turning ideas into interactive web experiences
+
+---
+
+# 💼 My Services
+
+### ⚛️ Web Development
+
+Building modern and responsive websites using:
+
+- React
+- Next.js
+- JavaScript
+- TypeScript
+
+
+### 🎨 UI / UX Development
+
+Creating clean and attractive interfaces with:
+
+- Figma to Code
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Responsive Design
+
+
+### 🔗 API Integration
+
+Working with:
+
+- REST APIs
+- Axios
+- Fetch
+- Dynamic Data
+- Authentication
+
+
+### ⚡ Performance
+
+Improving applications with:
+
+- Reusable Components
+- Clean Code
+- Optimization
+- Responsive Layouts
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,git,github,vscode,figma"/>
 </p>
-
----
-
-# ⚡ Skills
-
-### 🌐 Front-End
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Responsive Web Design
-
-### ⚛ React Ecosystem
-
-- React Router
-- Context API
-- Axios
-- API Integration
-- Swiper.js
-- Reusable Components
-
-### 🎨 UI
-
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Dark Mode
-- Pixel Perfect Design
 
 ---
 
@@ -75,42 +91,43 @@ const setayesh = {
 
 ## 🎬 MovieHub
 
-Modern movie website powered by **React** & **TMDB API**.
+A modern movie application built with React and TMDB API.
 
 ### Features
 
-- 🎥 Movies & TV Shows
-- 🔍 Search
-- ⭐ Top Rated
-- 🔥 Popular
-- 📱 Responsive Design
-- 🌙 Dark Mode
-- ⚛ React Router
-- 🧩 Reusable Components
+🎥 Movies & TV Shows  
+🔍 Search System  
+⭐ Top Rated Movies  
+🔥 Popular Movies  
+🌙 Dark Mode  
+📱 Fully Responsive  
+⚛️ React Router  
+🧩 Reusable Components  
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=setayesh-mardiii&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=setayesh-mardiii&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=setayesh-mardiii&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -132,7 +149,7 @@ Modern movie website powered by **React** & **TMDB API**.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+✨ Thanks for visiting my profile ✨
 </p>
 
 <p align="center">
