@@ -106,16 +106,11 @@ A modern movie application built with React and TMDB API.
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight"/>
 </p>
 
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight"/>
 </p>
 
 
