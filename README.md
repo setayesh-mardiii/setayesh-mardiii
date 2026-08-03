@@ -6,9 +6,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=setayesh-mardiii&style=for-the-badge&color=blueviolet" />
-</p>
 
 ---
 
