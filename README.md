@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Setayesh Mardi</h1>
 
-<h3 align="center">
-Front-End Developer • React Developer • Next.js Enthusiast
-</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=setayesh-mardiii&style=for-the-badge&color=blueviolet" />
