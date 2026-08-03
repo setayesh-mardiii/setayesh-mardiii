@@ -10,8 +10,7 @@
 <h1 align="center">
 Setayesh Mardi
 </h1>
----
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - 💻 Front-End Web Developer
 - ⚛️ React Developer
