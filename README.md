@@ -3,11 +3,6 @@
 </p>
 
 
-
-<h3 align="center">
-💻 Front-End Developer
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Next.js+Developer;Building+Clean+%26+Responsive+Websites"/>
 </p>
