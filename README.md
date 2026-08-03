@@ -24,10 +24,18 @@ Setayesh Mardi
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
+
+### 🌐 Front-End
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui"/>
+</p>
+
+### 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
