@@ -26,12 +26,28 @@ I'm a Front-End Developer focused on building modern, responsive and user-friend
 
 ## 💼 My Services
 
-| Service | Description |
-|---|---|
-| ⚛️ Web Development | Building modern, fast and responsive websites using React, Next.js, JavaScript and modern Front-End technologies. |
-| 🎨 UI / UX | Creating clean and user-friendly interfaces with responsive layouts and transforming Figma designs into real websites. |
-| 🔗 REST API | API integration using Axios and Fetch, handling dynamic data, authentication and interactive applications. |
-| ⚡ Performance | Improving web performance with clean code, reusable components, responsive solutions and optimization techniques. |
+### ⚛️ Web Development
+
+Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies.
+
+---
+
+### 🎨 UI / UX
+
+Pixel-perfect interfaces with modern layouts, responsive design and clean user experience.  
+Transforming Figma designs into real websites.
+
+---
+
+### 🔗 REST API
+
+API integration using Axios and Fetch, authentication, dynamic data handling and interactive applications.
+
+---
+
+### ⚡ Performance
+
+Building optimized applications with clean code, reusable components, responsive solutions and performance improvements.
 
 ---
 
@@ -58,6 +74,12 @@ I'm a Front-End Developer focused on building modern, responsive and user-friend
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
 
 </p>
 
