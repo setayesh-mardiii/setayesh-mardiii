@@ -55,13 +55,13 @@ I love turning designs into real products with clean code, reusable components a
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayesh-mardiii&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
