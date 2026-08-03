@@ -14,9 +14,7 @@ Setayesh Mardi
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=React+Developer;Next.js+Developer;UI+Focused+Frontend+Developer;Building+Modern+Web+Experiences"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=setayesh-mardiii&style=for-the-badge&color=blueviolet"/>
-</p>
+
 
 ---
 
@@ -71,17 +69,6 @@ I love turning designs into real products with clean code, reusable components a
 
 </p>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/setayesh-mardiii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
