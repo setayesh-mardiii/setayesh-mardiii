@@ -2,32 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E1F3F&height=230&section=header&text=Setayesh%20Mardi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Setayesh Mardi
-</h1>
+
 
 <h3 align="center">
 💻 Front-End Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=React+Developer;Next.js+Developer;UI+Focused+Frontend+Developer;Building+Modern+Web+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Next.js+Developer;Building+Clean+%26+Responsive+Websites"/>
 </p>
 
-
-
+<h1 align="center">
+Setayesh Mardi
+</h1>
 ---
-
 ## 👩‍💻 About Me
 
-I'm a Front-End Developer who enjoys creating modern, responsive and user-friendly web experiences.
+- 💻 Front-End Web Developer
+- ⚛️ React Developer
+- 🎨 Transforming Figma designs into real websites
+- 📱 Responsive Web Design
+- 🌙 Dark Mode Implementation
+- 🧩 Building reusable components
+- 📊 Dashboard & Admin Panel Development
+- 🚀 Passionate about learning new technologies
 
-I love turning designs into real products with clean code, reusable components and beautiful interfaces.
-
-- ⚛️ Specialized in React & Next.js
-- 🎨 Interested in UI Design and Front-End Architecture
-- 📱 Focused on responsive and accessible websites
-- 🚀 Always learning and improving my skills
 
 ---
 
