@@ -95,14 +95,14 @@ Performance optimization, reusable components and building efficient web applica
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=setayesh-mardiii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 </p>
 
