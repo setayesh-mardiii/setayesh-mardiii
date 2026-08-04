@@ -4,98 +4,102 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Next.js+Developer;Building+Clean+%26+Responsive+Websites"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8E1F3F&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+Developer;Building+Modern+Responsive+Web+Apps"/>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/setayesh-mardiii">
+    <img src="https://img.shields.io/github/followers/setayesh-mardiii?style=for-the-badge&color=8E1F3F"/>
+  </a>
+
+  <img src="https://img.shields.io/github/stars/setayesh-mardiii/moviehub-react?style=for-the-badge&color=8E1F3F"/>
+</p>
+
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a Front-End Developer focused on building modern, responsive and user-friendly web applications.
 
-- 💻 Front-End Web Developer
-- ⚛️ React Developer
-- 🎨 Transforming Figma designs into real websites
+Hi, I'm **Setayesh Mardi** — a Front-End Developer focused on creating modern, responsive and user-friendly web applications.
+
+I enjoy transforming ideas and designs into clean, interactive experiences using modern Front-End technologies.
+
+
+### What I do:
+
+- 💻 Front-End Web Development
+- ⚛️ React Application Development
+- ⚡ Building reusable components
+- 🎨 Converting Figma designs into real interfaces
 - 📱 Responsive Web Design
-- 🌙 Dark Mode Implementation
-- 🧩 Building reusable components
+- 🌙 Dark / Light Theme Implementation
+- 🔗 REST API Integration
 - 📊 Dashboard & Admin Panel Development
-- 🚀 Passionate about learning new technologies
+- 🚀 Performance Optimization
+
 
 ---
 
-## 💼 My Services
+# 🎬 MovieHub React
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center">
+**MovieHub React** is a modern movie web application built with React and Vite.
 
-### ⚛️ Web Development
 
-Modern, fast and responsive websites built using React, Next.js, JavaScript and modern Front-End technologies.
+The project focuses on:
 
-</td>
-</tr>
+- Clean UI architecture
+- Responsive layouts
+- Modern component design
+- Dark & Light theme system
+- Movie cards and details pages
+- Interactive user experience
 
-<tr>
-<td align="center">
 
-### 🎨 UI / UX
+## ✨ Features
 
-Pixel-perfect interfaces with modern layouts, responsive design and clean user experience.
 
-</td>
-</tr>
+🎥 Movie browsing interface
 
-<tr>
-<td align="center">
+🎬 Movie details page
 
-### 🔗 REST API
+⭐ Rating system
 
-API Integration, Axios, Fetch, Authentication and dynamic applications.
+❤️ Favorite button
 
-</td>
-</tr>
+▶️ Watch & Trailer actions
 
-<tr>
-<td align="center">
+🌙 Dark / Light mode
 
-### ⚡ Performance
+📱 Responsive design for desktop, tablet and mobile
 
-Performance optimization, reusable components and building efficient web applications.
+🧩 Reusable React components
 
-</td>
-</tr>
+⚡ Fast development using Vite
 
-</table>
 
-</div>
+---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui"/>
+
 </p>
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+
 </p>
+
 
 ---
 
-## 📊 GitHub Analytics
-
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=setayesh-mardiii&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-
+# 📂 Project Structure
 
