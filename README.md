@@ -109,22 +109,3 @@ Performance optimization, reusable components and building efficient web applica
 
 ---
 
-## 🚀 Projects
-
-
-### 🎬 MovieHub React
-
-A modern movie web application built with React and Vite.
-
-Features:
-
-- 🎥 Movie browsing interface
-- 🎬 Movie details page
-- 🌙 Dark / Light theme
-- 📱 Responsive design
-- 🧩 Reusable components
-
-
----
-
-## 📂 Project Structure
